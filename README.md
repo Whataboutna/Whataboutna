@@ -13,14 +13,14 @@
     </a>
   </p>
 
-  <img src="https://media.tenor.com/HCW5s2raa7AAAAAM/i-made-friends-with-the-second-prettiest-girl-in-my-class-%E5%92%8C%E7%8F%AD%E4%B8%8A%E7%AC%AC%E4%BA%8C%E5%8F%AF%E6%84%9B%E7%9A%84%E5%A5%B3%E7%94%9F%E6%88%90%E7%88%B2%E6%9C%8B%E5%8F%8B.gif" alt="Yay" width="250"/>
+  <img src="https://cdn.dribbble.com/userupload/21806257/file/original-fe5cde6d729400e71a14d87b2b7d46fb.gif" alt="Yay" width="250"/>
 
   <br>
 
   <p>
-    👋 Hi, My name is <b>Malikal Hirsya Alfatory</b>.<br>
-    💻 An Engineering Student but still a beginner in the programming world.<br>
-    🌱 I would love to learn more and improve myself.
+    👋 Hi, <b>Nathan Christian Loilewen here!!!</b>.<br>
+    💻 ~<br>
+    🌱 ~
   </p>
 
 </div>
