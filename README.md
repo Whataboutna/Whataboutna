@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=150&section=header&text=Malikal%20Hirsya%20Alfatory%20%&fontSize=30&fontColor=fff&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=150&section=header&text=Nathan%20Christian%20Loilewen%20%&fontSize=30&fontColor=fff&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=70&descAlign=50" alt="Header" />
   
   <p>
     <a href="https://discordapp.com/users/712661206783230043" target="_blank">
